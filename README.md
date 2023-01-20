@@ -1,5 +1,5 @@
 ### Hello there, I'm Ana! 👋
-
+<br> </br>
 I'm Front-End developer from Poland 🇵🇱., based in Warsaw, but flexible to relocate 🌎.
 
 - 🚧 I’m a front-end developer wannabe. 
@@ -12,4 +12,21 @@ I'm Front-End developer from Poland 🇵🇱., based in Warsaw, but flexible to 
 - 😄 I collect exotic plants && love cooking && the nature!
 
 🛠️ Languages and Tools :
-Nextjs  React  Typescript Redux (RTK)  CSS  HTML  JavaScript Git  Wordpress
+
+<img style="width: 30px" src="
+https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+<img style="width: 30px" src="
+https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+<img style="width: 30px" src="
+https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+<img style="width: 30px" src="
+https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img style="width: 30px" src="
+https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+
+<img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+
+
+
+
+
