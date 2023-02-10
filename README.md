@@ -1,15 +1,15 @@
 ### Hello there, I'm Ana! 👋
 <br> </br>
-I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to relocate 🌎.
+I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎.
 
-- 🚧 I’m a front-end developer wannabe. 
-- 🌱 Currently learning by creating projects in React, Next.js.
+- 🚧 I’m a front-end developer (junior / wannabe). 
+- 🌱 Currently learning by creating projects in React, Next.js, vanilla JS.
 - 👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 - 🤔 I’ve been working as freelance web-developer, creating beautiful, responsive websites for local business and artists.
 
 - 💬 Let me know If you're looking for a junior team member. 
 - 📫 How to reach me here? <a href="mailto: http://anaweb.site"> anaweb.site </a>
-- 😄 I collect exotic plants && love cooking && the nature!
+- 😄 I collect exotic plants && love travelling && the nature!
 
 🛠️ Languages and Tools :
 <span>
