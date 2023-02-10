@@ -23,9 +23,10 @@ I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to r
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+    <img style="width: 30px" >💅</img>
 </span>
 
-   <img style="width: 30px" >💅</img>
+ 
 
 
 
