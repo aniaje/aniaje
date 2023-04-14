@@ -11,7 +11,7 @@ I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to r
   💬 Let me know If you're looking for a junior team member. 
   📫 How to reach me here?  <a href="mailto:jezowskanna@gmail.com"> e-mail </a> 
   my website with projects for clients <a href="http://anaweb.site"> anaweb.site </a>
-  😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a>
+  😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
 
 
 🛠️ Languages and Tools :
