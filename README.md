@@ -8,9 +8,9 @@ I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to r
  👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 
 
-  💬 Let me know If you're looking for a junior team member. 
-  📫 How to reach me here?  <a href="mailto:jezowskanna@gmail.com"> e-mail </a> 
-  my website with projects for clients <a href="http://anaweb.site"> anaweb.site </a>
+  💬 Let me know If you're looking for a junior team member. <br>
+  📫 How to reach me here?  <a href="mailto:jezowskanna@gmail.com"> e-mail </a> <br>
+  my website with projects for clients <a href="http://anaweb.site"> anaweb.site </a><br>
   😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
 
 
