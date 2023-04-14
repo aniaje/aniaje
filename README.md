@@ -2,9 +2,9 @@
 <br> </br>
 I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎.
 
- 🚧 I’m a front-end developer (junior / wannabe). 
- 🤔 I’ve been working as freelance web-developer, creating beautiful, responsive websites for local business
- 🌱 Currently learning by coding in React, Next.js, vanilla JS (I'm interested in backend too, so I started to code mern apps!)
+ 🚧 I’m a front-end developer (junior / wannabe). <br> </br>
+ 🤔 I’ve been working as freelance web-developer, creating beautiful, responsive websites for local business<br> </br>
+ 🌱 Currently learning by coding in React, Next.js, vanilla JS (I'm interested in backend too, so I started to code mern apps!)<br> </br>
  👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 
 
