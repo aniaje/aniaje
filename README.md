@@ -14,7 +14,7 @@ I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to r
   😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
 
 
-🛠️ Languages and Tools :
+🛠️ :
 <span>
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
