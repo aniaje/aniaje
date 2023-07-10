@@ -4,7 +4,7 @@ I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to r
 
  🚧 I’m a junior front-end developer. <br> 
  🤔 I’ve been working as freelance web-developer, creating beautiful, responsive websites for local business<br> 
- 🌱 Currently on my first commercial full-time role! &still learning by coding in React, Next.js, vanilla JS (I'm interested in backend too, so I started to code mern apps!)<br> 
+ 🌱 Currently on my first commercial full-time role! &still learning React, Next.js, vanilla JS.<br> 
  👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 
 
