@@ -1,11 +1,10 @@
 ### Hello there, I'm Ana! 👋
-<br> </br>
+
 I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎.
 👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 
   📫 How to reach me here?  <a href="mailto:jezowskanna@gmail.com"> e-mail </a> <br>
   😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
-
 
 🛠️ :
 <span>
