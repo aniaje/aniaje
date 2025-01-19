@@ -2,7 +2,7 @@
 
 frontend dev from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎
 
-  😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
+  😄 I collect exotic plants && love travelling! 🍒
 
 🛠️ :
 <span>
