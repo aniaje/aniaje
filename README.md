@@ -1,16 +1,9 @@
 ### Hello there, I'm Ana! 👋
 <br> </br>
 I'm Front-End developer from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎.
+👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
 
- 🚧 I’m a junior front-end developer. <br> 
- 🤔 I’ve been working as freelance web-developer, creating beautiful, responsive websites for local business<br> 
- 🌱 Currently on my first commercial full-time role! &still learning React, Next.js, vanilla JS.<br> 
- 👯 I’m a codewars addict and I'm happy to meet on sparring anytime!
-
-
-  💬 Are you're looking for a junior team member? Probably not, as the market is quite full, <br> but I'm right on my way to become experienced 💪 <br>
   📫 How to reach me here?  <a href="mailto:jezowskanna@gmail.com"> e-mail </a> <br>
-  my website with projects for clients <a href="http://anaweb.site"> anaweb.site </a><br>
   😄 I collect exotic plants && love travelling && the nature! my <a href="https://www.instagram.com/aniaje/"> instagram </a> 🍒
 
 
