@@ -2,8 +2,6 @@
 
 frontend dev from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎
 
-  😄 I collect exotic plants && love travelling! 🍒
-
 🛠️ :
 <span>
 <img style="width: 30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript">
