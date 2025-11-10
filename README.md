@@ -1,6 +1,6 @@
 ### Hi, I'm Ana! 👋
 
-frontend dev from Poland 🇵🇱, based in Warsaw, but flexible to relocate  🌎
+frontend dev from Poland 🇵🇱, based in Warsaw, flexible to relocate  🌎
 
 🛠️ :
 <span>
